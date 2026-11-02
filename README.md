@@ -1,4 +1,4 @@
-# Voice-of-Customer Agent — Bahasa Indonesia
+# Voice-of-Customer Agent - Bahasa Indonesia
 
 > Reads Indonesian customer reviews and social/CX comments, labels **sentiment** and **emotion**, and answers a CX team's questions with evidence: category statistics with confidence intervals, complaint themes, distinctive terms, and verbatim quotes whose citations are **mechanically verified** before the report counts as done.
 
